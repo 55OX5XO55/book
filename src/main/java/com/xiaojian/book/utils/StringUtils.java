@@ -6,6 +6,6 @@ public class StringUtils {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hello git");
+        System.out.println("冲突合并 不同行");
     }
 }
