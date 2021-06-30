@@ -2,3 +2,4 @@ name=霄剑
 sex=男
 age=25
 height=172cm
+weight=55kg
