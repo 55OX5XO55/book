@@ -15,6 +15,8 @@ void setup() {
   pinMode(led, OUTPUT);     
 }
 
+//醉后不知天再水, 满船清梦压星河
+
 // the loop routine runs over and over again forever:
 void loop() {
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
