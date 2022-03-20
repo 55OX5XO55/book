@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 I LOVE YOU 
 XIAOJIAN
-=======
-I LOVE YOU 55555
->>>>>>> test3
